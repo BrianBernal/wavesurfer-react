@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+wave wave {
+  background-color: #e8eff5;
+  opacity: 0.38;
+  border-right: 2px solid #1d4e8e !important;
+}
